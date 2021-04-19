@@ -1,0 +1,5 @@
+Use current control mode.
+
+Set digital pin to enable
+
+Set analog input pin to 0-5V. (0V -> -5A and 5V -> 5A)
